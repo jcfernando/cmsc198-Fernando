@@ -27,4 +27,4 @@
 
 
 ## Hardest task done this week
-- The hardest task is probably adapting to a new language that is not taught in my curriculum which is python. Learning the coding conventions and how to debug a mistake ate most of my time.
+    - The hardest task is probably adapting to a new language that is not taught in my curriculum which is python. Learning the coding conventions and how to debug a mistake ate most of my time. I solved it by studying the native python language, the django documentation itself, and a little help from the stackoverflow community.
