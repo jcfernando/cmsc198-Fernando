@@ -13,7 +13,7 @@
     - Installed django in terminal and pycharm as the IDE
     - Followed the 10 part tutorial in the django website
     - Took 6 hrs.
-* Assigned to 2 projects based on skillset
+* Assigned to 2 projects based on skillset and preference
     - Frontend developer on two projects. 
 
 ## To be done
