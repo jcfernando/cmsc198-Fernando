@@ -2,23 +2,31 @@
 =======
 ## Todo
 * Study android development
-    * Install Android Studio
-
+    - Install Android Studio
+ 
 * Finish a poll system using django (django-tutorial)
-    * Install the language in our terminal
-    * Install several IDE's for python
-    * Study native python
-    * Study the django framework for python
+    - Install the language in our terminal
+    - Install several IDE's for python
+    - Study native python
+    - Study the django framework for python
  
 ## Done
 * Poll System using Django
-    - List of things accomplished for the week, put some details on how you did it and put how many hours it took to finish it
+    - Installed django in terminal and pycharm as the IDE
+    - Followed the 10 part tutorial in the django website
+    - Took 6 hrs.
+* Assigned to 2 projects based on skillset
+    - Frontend developer on two projects. 
 
 ## To be done
-- List of things that will be done next week, put some details on how this came about from the list of done tasks and todo tasks and how you plan to do it next week.
+* Enrollment System using Django (Mini Project)
+    - Students can enroll in a subject given (can be multiple subjects)
+    - Computes for the tuition based on the units on a subject
 
 ## Things learned
-- List of best practices that were taught in work that were not taught in your CMSC courses
+* Learning is much better/fun when done in groups
+    - We were given 8 problems and it must be solved by your preferred programming language; it is an individual coding challenge but you can help or be helped by a friend. I was stuck in a problem and a friend pointed out a mistake in my algorithm, thus solving it.
+
 
 ## Hardest task done this week
-- Describe the hardest task (without violating any NDAs) done, how did you solve it, who helped you, what did you learn from the experience
+- The hardest task is probably adapting to a new language that is not taught in my curriculum which is python. Learning the coding conventions and how to debug a mistake ate most of my time.
