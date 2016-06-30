@@ -1,5 +1,4 @@
 # June: Week 1
-=======
 ## Todo
 * Study android development
     - Install Android Studio
