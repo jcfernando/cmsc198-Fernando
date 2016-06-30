@@ -2,7 +2,6 @@
 ## Todo
 * Study android development
     - Install Android Studio
- 
 * Finish a poll system using django (django-tutorial)
     - Install the language in our terminal
     - Install several IDE's for python
