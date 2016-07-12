@@ -13,12 +13,11 @@
 * Enrollment System using Django (Mini Project)
     - Followed the 10 part tutorial in the django website while editing some details to suit the specs of the project
     - Took less than 10 hrs.
-* Leave App (Given project by the company)
-    - Data models needed for the project were provided
-    - Developers will have the freedom of using any language/implementation
 
 ## To be done
 * Leave App (Given project by the company)
+    - Data models needed for the project were provided
+    - Developers will have the freedom of using any language/implementation
     - Finalize data models
     - Finalize UI/UX 
 * Study android development 
